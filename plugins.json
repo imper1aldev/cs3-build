@@ -1,0 +1,506 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/AnimeAv1Provider.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "AnimeAv1Provider",
+        "internalName": "AnimeAv1Provider",
+        "authors": [
+            
+        ],
+        "fileSize": 22066,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://animeav1.com/img/logo-dark.svg",
+        "apiVersion": 1,
+        "fileHash": "sha256-bcf4e4532b9a06913204be76d7f6cfdfa4e3ab633d12423973a5dee07078ddc3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/AnimeFenixProvider.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "AnimeFenixProvider",
+        "internalName": "AnimeFenixProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 17217,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animefenix2.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-e53c25352ef214697eb055c4e88df35c387a3e23d58dd5298a60b6684a54f1ca"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/AnimeflvnetProvider.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "AnimeflvnetProvider",
+        "internalName": "AnimeflvnetProvider",
+        "authors": [
+            
+        ],
+        "description": "El mejor portal de anime online para latinoam\u00e9rica, encuentra animes cl\u00e1sicos, animes del momento, animes m\u00e1s populares y mucho m\u00e1s, todo en animeflv, tu fuente de anime diaria.",
+        "fileSize": 24273,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www3.animeflv.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-5930ca312fb348b7f68f0be0d5b03c4919b94e2d666b61fd18ae83cacaab7817"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/CinecalidadProvider.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "CinecalidadProvider",
+        "internalName": "CinecalidadProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 14913,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.cinecalidad.ec&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-af47fc906e3d87a99b0f435832b0587b744b89c3bc0c5a386e8e8c9db898f639"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/CuevanaEuProvider.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "CuevanaEuProvider",
+        "internalName": "CuevanaEuProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 45881,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.cuevana3.eu&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-73cce38fdfc865c3e7fb79f10d307aa71ee30f901f331475b4ccf595f8322beb"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/CuevanaIsProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "CuevanaIsProvider",
+        "internalName": "CuevanaIsProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 40543,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cue.cuevana3.nu&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-a9dc7dde65c031e2bf96b539044ffcb247b8810c3836f14a109ec0b7b806ec0c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/DoramasflixProvider.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "DoramasflixProvider",
+        "internalName": "DoramasflixProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 38886,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-9d0fb235b3fc6f5cc415b1cc9dc23782310c2539ef92b726a9c6f0f447d776cb"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/GnulaProvider.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "GnulaProvider",
+        "internalName": "GnulaProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 39621,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://gnula.life&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-cac35256d652e4208b4a5b4a0c9c0fc638ad87c59bb8ec22338ed8c262e479e9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/HackstoreProvider.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "HackstoreProvider",
+        "internalName": "HackstoreProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 21596,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hackstore.fo&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-44d7e3bc51ddbaba80202bc34ef161d6dfda9e5beda73e707495cad802fc7fdb"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/HentailaProvider.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "HentailaProvider",
+        "internalName": "HentailaProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 13417,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www5.hentaila.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-512f737eeda51e03af3a28b2a86f1afb61bb0e5b81364234271bd5d496e91cf9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/HentailaTvProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HentailaTvProvider",
+        "internalName": "HentailaTvProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 19962,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://hentaila.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-8ea4d1c63496784a2c7d534ac55bc763f7e675d3774ce10f83c75621cf4fdb3a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/IptvProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "IptvProvider",
+        "internalName": "IptvProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 11268,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://avatars.githubusercontent.com/u/55937028?s=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d10167a585d8a709ac1cf88cb3a9cbbf5789a75cc2de8bc3048ed80e7f3bca79"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/JkAnimeProvider.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "JkAnimeProvider",
+        "internalName": "JkAnimeProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 30424,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-ea19505cde285accb3297d91555e4d4db7374f6f75045215187e9d49b7c6a424"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/LatanimeProvider.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "LatanimeProvider",
+        "internalName": "LatanimeProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 12839,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=latanime.org&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2cf272de495b7c92837414578017cd04616d9911ad46947fc6b15d62bb1c3ca0"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/MonosChinosProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "MonosChinosProvider",
+        "internalName": "MonosChinosProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 23591,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://i.imgur.com/iwCO94l.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-c5ab6500f20b8345a22f6dc84c8bc0e7c313062433e524deb346d174de69aa0f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/NexoAnimeProvider.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "NexoAnimeProvider",
+        "internalName": "NexoAnimeProvider",
+        "authors": [
+            "ImperialP1ng"
+        ],
+        "description": "Cat\u00e1logo Anilist + fuentes de anime",
+        "fileSize": 104886,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anilist.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-40bb3216cd86d8d148df3cfe9efeb9313d467aad2759ecebfaa7e63ee247a0b3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/NexoDramaProvider.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "NexoDramaProvider",
+        "internalName": "NexoDramaProvider",
+        "authors": [
+            "ImperialP1ng"
+        ],
+        "description": "Cat\u00e1logo Doramas + fuentes de doramas",
+        "fileSize": 124281,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-8c9c5a9f8b1a3cb73a3e8c2c5fee3393b75a7b2041b7ad4820e94043969d85d7"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/NexoStreamProvider.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "NexoStreamProvider",
+        "internalName": "NexoStreamProvider",
+        "authors": [
+            "ImperialP1ng"
+        ],
+        "description": "Cat\u00e1logo TMDB + fuentes de series y pel\u00edculas",
+        "fileSize": 148499,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=themoviedb.org&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-ff70777fabadf9534c0af51538158919664afcf8572f7f1df877cbcfee41d491"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/PandramaProvider.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "PandramaProvider",
+        "internalName": "PandramaProvider",
+        "authors": [
+            "Pandrama Team"
+        ],
+        "description": "Doramas y pel\u00edculas asi\u00e1ticas en espa\u00f1ol",
+        "fileSize": 61320,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pandrama.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-381172cf87fa2e543b3f7f7151305a0ac3ce68daa1d230ba2a663663316e4dca"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/PelisplushdProvider.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "PelisplushdProvider",
+        "internalName": "PelisplushdProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 40302,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz/&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-07d90324132712f1759bc50b0c8eff9645bffb1bf12d2116e2525528ee959443"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/PelisplusmxProvider.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "PelisplusmxProvider",
+        "internalName": "PelisplusmxProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 18094,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww4.pelisplushd.to/&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-0b920a1dab7bd328f989aa269e6f4efc64f6366ecaba296130b8d286979d250f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/PelisplustoProvider.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "PelisplustoProvider",
+        "internalName": "PelisplustoProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 20502,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww3.pelisplus.to&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-65b40e48994f8dc684f8504333f92e91749d1a494e11ad2a8a10d1552842cc86"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/VeoHentaiProvider.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "VeoHentaiProvider",
+        "internalName": "VeoHentaiProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 21089,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://veohentai.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-a66695e00dcb846e5f2bfb10492e4620c851834bfd44eab5f54531f9cf7a3e3d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/VerAnimesProvider.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "VerAnimesProvider",
+        "internalName": "VerAnimesProvider",
+        "authors": [
+            
+        ],
+        "fileSize": 17868,
+        "repositoryUrl": "https://github.com/imper1aldev/cs3-build",
+        "language": "es",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wwv.veranimes.net/&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-be19501eb3d9fc76c0671ca7b91d3f029220c76976c3887dc666083b151f01ed"
+    }
+]
