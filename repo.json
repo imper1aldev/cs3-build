@@ -1,0 +1,9 @@
+{
+    "name": "Spanish providers repository",
+    "iconUrl": "https://avatars.githubusercontent.com/u/23511335?v=4",
+    "description": "Cloudstream Spanish Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/imper1aldev/cs3-build/builds/plugins.json"
+    ]
+}
